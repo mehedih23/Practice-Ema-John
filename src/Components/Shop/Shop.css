@@ -19,4 +19,12 @@
     position: fixed;
     top: 80px;
     right: 0px;
+    width: 233px;
+}
+
+.order-summary {
+    width: 220px;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10px;
 }
